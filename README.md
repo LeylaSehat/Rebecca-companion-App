@@ -12,7 +12,7 @@ That gave me an idea: instead of relying on a parent or mentor to remind her of 
 - 200,000+ people with Down syndrome in the US alone
 - 6 million worldwide
 - Zero apps combining: adult-appropriate design + gamification + music theming + caregiver control + Gate Screen  If this helps Rebecca, it can help thousands of others like her.
-## ✨ What Makes This Different
+## What Makes This Different
 
 Most routine apps for people with Down syndrome are designed for children. Rebecca is 25. She deserves an app that:
 
