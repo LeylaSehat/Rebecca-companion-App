@@ -4,7 +4,7 @@
 
 > Daily routine companion app designed for adults with Down syndrome — built with empowerment, not commands.
 
-## 🌸 The Story Behind This App
+## The Story Behind This App
 We have a daughter with Down syndrome. Her name is **Rebecca** and she is 25 years old.
 Rebecca is remarkably capable and handles much of her daily life independently — but she needs someone to help her stay on track with time. She also loves her phone more than almost anything else.
 
@@ -23,25 +23,25 @@ Most routine apps for people with Down syndrome are designed for children. Rebec
 
 
 
-## 🎵 Core Features
+## Core Features
 
-### 🎛️ DJ Booth UI
+### DJ Booth UI
 Dark neon design inspired by a concert stage — not a clinical task manager. Every interaction feels like part of a music set.
 
-### ⏰ Real-Time Clock Sync
+### Real-Time Clock Sync
 The app reads the device's actual time and automatically activates tasks on schedule — Mon–Fri, 7:00 AM to 10:00 PM.
 
-### 🔔 Two-Layer Reminder System
-- **In-app popup** — full-screen reminder with emoji, music bars animation, and a large "Done! 🎵" button
+### Two-Layer Reminder System
+- **In-app popup** — full-screen reminder with emoji, music bars animation, and a large "Done!" button
 - **Push notification** — fires even when the app is in the background, 5 minutes before each task
 
-### 🎫 Gate Screen — Backstage Pass
+### Gate Screen — Backstage Pass
 When overdue required tasks exist, a full-screen "Backstage Pass" appears. Language is always empowering:
 > *"Your phone is RIGHT HERE with you — just knock out these quick wins first!"*
 
 Never punishing. Never "you must." Always a collaboration.
 
-### 🔒 Parent Dashboard
+### Parent Dashboard
 PIN-protected panel for caregivers to:
 - Monitor daily progress in real time
 - View task completion status
@@ -52,7 +52,7 @@ PIN-protected panel for caregivers to:
 
 ---
 
-## 🧠 Design Philosophy
+## Design Philosophy
 
 ### Language matters as much as features
 Every string in this app was written from Rebecca's perspective. Words like "must," "should," and "required" are never shown to her. Instead:
@@ -69,7 +69,7 @@ Because music is Rebecca's primary passion, every reward in the system is music-
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React** (PWA)
 - **Web Audio API** — chime sounds on task completion, no external audio files needed
@@ -79,7 +79,7 @@ Because music is Rebecca's primary passion, every reward in the system is music-
 
 ---
 
-## 💡 The Bigger Vision
+## The Bigger Vision
 
 This project is actively being developed into a full product, one that any family, caregiver, school, or rehabilitation center could customize for their own loved one. Every person deserves a routine that feels like theirs.
 
@@ -95,7 +95,7 @@ This project is actively being developed into a full product, one that any famil
 
 ---
 
-## 📄 Copyright & License
+## Copyright & License
 
 © 2025 All Rights Reserved.
 
@@ -109,4 +109,4 @@ For inquiries, collaboration, or licensing: please open an issue or contact via 
 
 ---
 
-*Built with love for Rebecca. 🌸*
+*Built with love for Rebecca. *
