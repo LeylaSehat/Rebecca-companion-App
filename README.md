@@ -2,9 +2,7 @@
 
 > Daily routine companion app designed for adults with Down syndrome — built with empowerment, not commands.
 
-<p align="center">
-  <img src="rebecca.jpeg" alt="Rebecca" width="320" />
-</p>
+![Dashboard Preview](Rebecca-app.PNG)
 
 
 ## 🌸 The Story Behind This App
