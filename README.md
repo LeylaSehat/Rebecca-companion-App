@@ -89,7 +89,7 @@ This project is actively being developed into a full product, one that any famil
 - Multi-profile support for schools and care centers
 - React Native version with real App Store distribution
 - MDM integration for automated phone focus mode (7:00–8:15 AM)
-- Multi-language support (Persian, Spanish, Arabic, French)
+- Multi-language support 
 
 > *This project is currently in active development. Features, design, and scope are evolving.*
 
