@@ -2,11 +2,11 @@
 ![Dashboard Preview](Rebecca-app.png)
 
 
-> Daily routine companion app designed for adults with Down syndrome — built with empowerment, not commands.
+> Daily routine companion app designed for adults with Down syndrome, built with empowerment, not commands.
 
 ## The Story Behind This App
 We have a daughter with Down syndrome. Her name is **Rebecca** and she is 25 years old.
-Rebecca is remarkably capable and handles much of her daily life independently — but she needs someone to help her stay on track with time. She also loves her phone more than almost anything else.
+Rebecca is remarkably capable and handles much of her daily life independently, but she needs someone to help her stay on track with time. She also loves her phone more than almost anything else.
 
 That gave me an idea: instead of relying on a parent or mentor to remind her of her daily routines and responsibilities, why not put those reminders where she already looks—her phone? So I started developing this app. At first, it was just something for our sweetheart Rebecca, but as I worked on it, I saw there’s a real gap in the market:
 - 200,000+ people with Down syndrome in the US alone
@@ -62,7 +62,7 @@ Every string in this app was written from Rebecca's perspective. Words like "mus
 - *"Your phone is right here with you"* instead of "Phone locked"
 
 ### Autonomy over compliance
-Rebecca chooses to tap "Done!" — she is never forced. The Gate Screen exists to slow her down, not punish her. The moment all tasks are complete, everything opens instantly with a celebration.
+Rebecca chooses to tap "Done!" she is never forced. The Gate Screen exists to slow her down, not punish her. The moment all tasks are complete, everything opens instantly with a celebration.
 
 ### Music as the reward currency
 Because music is Rebecca's primary passion, every reward in the system is music-related. This creates a direct line between completing morning tasks and getting more of what she loves most.
