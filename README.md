@@ -1,9 +1,8 @@
 # Rebecca's Routine Companion App
-
-> Daily routine companion app designed for adults with Down syndrome — built with empowerment, not commands.
-
 ![Dashboard Preview](Rebecca-app.PNG)
 
+
+> Daily routine companion app designed for adults with Down syndrome — built with empowerment, not commands.
 
 ## 🌸 The Story Behind This App
 We have a daughter with Down syndrome. Her name is **Rebecca** and she is 25 years old.
